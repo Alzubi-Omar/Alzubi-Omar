@@ -3,7 +3,7 @@
 React-focused Frontend Developer with a background in Software Engineering, Project Management, and MIS. I build clean, scalable interfaces and bring a product mindset shaped by business and systems thinking.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/omaralzubi-007oa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F08650?logo=google-chrome&logoColor=white&style=for-the-badge)](https://yourdomain.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F08650?logo=google-chrome&logoColor=white&style=for-the-badge)](https://github.com/Alzubi-Omar/omar-alzubi-portfolio)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:omaralzubi.dev@gmail.com)
 
 ---
