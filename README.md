@@ -1,4 +1,4 @@
-# Hi, I'm Omar AlzuBi 👋
+# Hi, I'm Omar AlzuBi 👋 
 
 React-focused Frontend Developer with a background in Software Engineering, Project Management, and MIS. I build clean, scalable interfaces and bring a product mindset shaped by business and systems thinking.
 
@@ -33,3 +33,7 @@ React-focused Frontend Developer with a background in Software Engineering, Proj
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+
+## Currently Building
+
+🚧 [omar-alzubi-portfolio](https://github.com/Alzubi-Omar/omar-alzubi-portfolio) — Personal portfolio built with React 18, Vite, and React Router v6
